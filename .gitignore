@@ -1,0 +1,5 @@
+/node_modules
+/var
+/images
+.idea
+.DS_Store
